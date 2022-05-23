@@ -34,4 +34,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## How to install and run the project on your local machine
 
+1. Clone the repository by opening your terminal and running "git clone" and the paste the link which you have copied from the repository
+2. Open the downloaded folder in your favourite editor and then install all the dependencies by running 'npm install' in your terminal
+3. After it has finished installing, run 'npm start'.
